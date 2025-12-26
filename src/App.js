@@ -9,10 +9,10 @@ export default function App() {
          <h1>Dictionary App</h1>
       </header>
       <main>
-        <Dictionary  />
+        <Dictionary defaultKeyword="Sunrise" />
       </main>
       <footer>
-        <span>This Project was coded by <strong>Jade coster</strong>. It is open-sourced on </span>
+        <span>This Project was coded by <strong>Jade Coster</strong>. It is open-sourced on </span>
           <span>
          <a href='https://github.com/Vadia-Jade/dictionary-app-react' target='_blank' rel='noreferrer'>GitHub</a>
          </span>

@@ -1,3 +1,4 @@
+
 .App-header{ 
   text-align: center;
   margin: 0 auto;
@@ -7,4 +8,7 @@
 .App footer{
   text-align: center;
   margin: 0 auto;
+}
+.App a {
+  color:#41137e;
 }
