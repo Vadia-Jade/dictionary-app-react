@@ -76,5 +76,8 @@
     padding-right: 10px;
     line-height: 1;
     color: #6258c1;
-
+}
+.Photos img{
+    border-radius: 5px;
+    margin: 10px 0;
 }

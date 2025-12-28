@@ -1,10 +1,12 @@
-
+.App{
+  max-width: 960px;
+  margin: 0 auto;
+}
 .App-header{ 
   text-align: center;
   margin: 0 auto;
   padding: 20px;
 }
-
 .App footer{
   text-align: center;
   margin: 0 auto;
